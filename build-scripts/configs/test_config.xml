@@ -88,7 +88,7 @@
         <left_interval_char/>
         <interval_char>±</interval_char>
         <default_corpora>
-            <item>ovm_cs_w</item>
+            <item>oxford_en-m</item>
         </default_corpora>
         <use_db_whitelist>1</use_db_whitelist>
         <fcs_search_attributes>
